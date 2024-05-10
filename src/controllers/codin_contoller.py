@@ -1,4 +1,4 @@
-from src.model.codin import Codin
+from src.models.codin import Codin
 
 
 class CodinController:
